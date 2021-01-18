@@ -8,8 +8,3 @@ eureka:
   instance:
     hostname: localhost
     
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/myhotel
-    username : root
-    password : root
